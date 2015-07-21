@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Make Coments</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="addBtn">Add a comment</string>
+    <string name="title_activity_comment">CommentActivity</string>
+    <string name="comentString">Enter your comment here</string>
+    <string name="postBTN">POST</string>
+    <string name="odgovor">Tekst</string>
+    <string name="name">Name</string>
+    <string name="lntv">Last Name</string>
+    <string name="timeTV">Time</string>
+    <string name="coment">Your comment</string>
+    <string name="todo">TODO</string>
+    <string name="numberofComments">0</string>
+
+</resources>
